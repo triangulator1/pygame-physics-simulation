@@ -1,4 +1,4 @@
-# pygame-physics-simulation
+# Pygame-Physics-Simulation
 A simulation of an elevator powered by magnets with semi-realistic physics
 
 # Usage
